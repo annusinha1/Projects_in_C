@@ -1,4 +1,5 @@
 // Number guessing game
+
 #include <stdio.h>    
 int main() {
     int number, guess , i;
