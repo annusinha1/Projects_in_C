@@ -20,6 +20,8 @@ int main(){
     printf("Player 2 wins!\n");
   } else {
     printf("It's a tie!\n");
+
+    
   }
   return 0; 
 }
